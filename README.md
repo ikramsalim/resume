@@ -1,5 +1,5 @@
 
-## A clean, beautiful and responsive portfolio 
+## MY RESUME
 
 
 ## Features
