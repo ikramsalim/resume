@@ -2,7 +2,7 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Ikram | Software Engineering Major'
+  title: '', // e.g: 'Ikram | Computer Science Major'
   lang: '', // e.g: en, es, fr, jp
   description: 'I build things using my tech skills.', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, My name is',
   name: 'Ikram Salim',
-  subtitle: '           Software Engineering Major',
+  subtitle: '           Computer Science Major',
   cta: 'I have a great passion for technological advancement and I like throwing myself into interesting software projects.',
 };
 
@@ -30,7 +30,7 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'cookbookandroid.png',
-    title: 'Cookbook Adroid App ',
+    title: 'Cookbook Android App ',
     info: 'Created a cookbook recipe android app where you can search recipes, save recipes and easily use the unit converter provided.',
    // if no repo, the button will not show up
   },
