@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, My name is',
   name: 'Ikram Salim',
-  subtitle: 'Rising Junior majoring in Computer Science.',
+  subtitle: 'Computer Science Major, 2022.',
   cta: 'I am an aspiring software engineer who is passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Excited to explore software engineering internship opportunities 2021.',
 };
 
