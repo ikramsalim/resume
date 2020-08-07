@@ -9,18 +9,18 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello, My name is',
+  title: 'Hi, My name is',
   name: 'Ikram Salim',
-  subtitle: '           Computer Science Major',
-  cta: 'I have a great passion for technological advancement and I like throwing myself into interesting software projects.',
+  subtitle: 'Rising Junior majoring in Computer Science.',
+  cta: 'I am an aspiring software engineer who is passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Excited to explore software engineering internship opportunities 2021.',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'This summer, I helped nonprofits raise money through a tech startup called every.org using JavaScript. I am proud to use my technical skills at Every.org to increase the giving percentage which has stuck on 2% in North America in the last 30 years. ',
-  paragraphTwo: 'Technologies and Languages: Java, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Google Flutter.           Data Skills: Statistical Analysis, Data Cleaning, Data Visualization , Data Manipulation with pandas, UX Design:Wireframing, Prototyping, UML Diagrams',
-  paragraphThree: 'Passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Looking for an internship in software engineering.',
+  paragraphTwo: 'Technologies and Languages: Java, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Google Flutter.',
+  paragraphThree: 'DATA SKILLS: Statistical Analysis, Data Visualization,Data Manipulation with pandas, UX DESIGN: Wireframing, Prototyping, UML Diagrams',
   paragraphFour: 'I also mentor and volunteer during my free times with Canada Learning Code and previously volunteered for Open Door ',
    // if no resume, the button will not show up
 };
