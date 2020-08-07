@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Here are few technologies I have worked with: ',
-  paragraphTwo: 'MOBILE APP DEVELOPMENT(iOS, Google Flutter,Android), PYTHON, JAVA, DATASCIENCE, UNIX, DJANGO, BASH, DATA VISUALIZATION,UX DESIGN(Wireframing, Prototyping, UML Diagrams), WEB DEVELOPMENT using Node.JS, React.Js, Redux',
-  paragraphThree: 'I have worked part time as an IT Support Specialist at the University of Saskatchewan and provided clients support in IT related problems.',
+  paragraphOne: 'This summer, I helped nonprofits raise money through a tech startup called every.org using JavaScript. I am proud to use my technical skills at Every.org to increase the giving percentage which has stuck on 2% in North America in the last 30 years. ',
+  paragraphTwo: 'Technologies and Languages: Java, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Google Flutter.           Data Skills: Statistical Analysis, Data Cleaning, Data Visualization , Data Manipulation with pandas, UX Design:Wireframing, Prototyping, UML Diagrams',
+  paragraphThree: 'Passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Looking for an internship in software engineering.',
   paragraphFour: 'I also mentor and volunteer during my free times with Canada Learning Code and previously volunteered for Open Door ',
    // if no resume, the button will not show up
 };
@@ -75,7 +75,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/ikram-salim-b477b0111/',
+      url: 'https://www.linkedin.com/in/ikramsalim/',
     },
     {
       id: uuidv1(),
