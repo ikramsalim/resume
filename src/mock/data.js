@@ -2,7 +2,7 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Ikram | Computer Science Major'
+  title: '', // e.g: 'Ikram | Aspiring Software Engineer'
   lang: '', // e.g: en, es, fr, jp
   description: 'I build things using my tech skills.', // e.g: Welcome to my website
 };
@@ -11,22 +11,23 @@ export const headData = {
 export const heroData = {
   title: 'Hi, My name is',
   name: 'Ikram Salim',
-  subtitle: 'Computer Science Major, 2022.',
-  cta: 'I am an aspiring software engineer who is passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Excited to explore software engineering internship opportunities 2021.',
+  subtitle: 'A dreamer',
+  cta: 'I am an aspiring software engineer who is passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Excited to explore software engineering apprenticeship opportunities 2022.',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'This summer, I helped nonprofits raise money through a tech startup called every.org using JavaScript. I am proud to use my technical skills at Every.org to increase the giving percentage which has stuck on 2% in North America in the last 30 years. ',
+  paragraphOne: 'At Collab Lab, I created a smart grocery shopping list web app using React, React Hooks, HTML, CSS, and Firebase'  ' In Summer of 2020, I helped nonprofits raise money through a tech startup called every.org using Typescript and Figma to design their social media posts. I am proud to use my technical skills at Every.org to increase the giving percentage which has stuck on 2% in North America in the last 30 years. ',
   paragraphTwo: 'Technologies and Languages: Java, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Google Flutter.',
-  paragraphThree: 'DATA SKILLS: Statistical Analysis, Data Visualization,Data Manipulation with pandas, UX DESIGN: Wireframing, Prototyping, UML Diagrams',
+  paragraphThree: ' UX DESIGN: Wireframing, Prototyping, UML Diagrams',
   paragraphFour: 'I also mentor and volunteer during my free times with Canada Learning Code and previously volunteered for Open Door ',
    // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  
   {
     id: uuidv1(),
     img: 'cookbookandroid.png',
