@@ -2,7 +2,7 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Ikram | Aspiring Software Engineer'
+  title: '', // e.g: 'Ikram | '
   lang: '', // e.g: en, es, fr, jp
   description: 'I build things using my tech skills.', // e.g: Welcome to my website
 };
@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: 'Hi, My name is',
   name: 'Ikram Salim',
-  subtitle: 'A dreamer',
-  cta: 'I am an aspiring software engineer who is passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. Excited to explore software engineering apprenticeship opportunities 2022.',
+  subtitle: '',
+  cta: 'I am  passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. ',
 };
 
 // ABOUT DATA
@@ -62,7 +62,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Get In Touch',
   btn: 'Email Me',
-  email: 'salimikram61@gmail.com',
+  email: 'ikramsalim.pm@gmail.com',
 };
 
 // FOOTER DATA
