@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi, My name is',
   name: 'Ikram Salim',
   subtitle: '',
-  cta: 'I am  passionate about human-centered designs, data-driven impactful projects, tech innovation, humanity, and empowerment. ',
+  cta: 'I am passionate about human-centered designs, data-driven impactful projects, user research and empowerment. ',
 };
 
 // ABOUT DATA
